@@ -569,3 +569,21 @@ ul {
     padding: 16px;
   }
 }
+
+
+/* =========================
+   Article Image Support
+========================= */
+
+.article-cover {
+  margin: 0 0 24px;
+}
+
+.article-cover img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  border-radius: 16px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.06);
+}
